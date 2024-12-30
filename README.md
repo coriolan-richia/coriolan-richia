@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AaCnRa... well, it's a way to abbreviate my name.
+- 👋 Hi, I’m Coriolan.
 <!---
 - 👀 I’m interested in ...
 --->
