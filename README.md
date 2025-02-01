@@ -1,8 +1,10 @@
+<!--
 - 👋 Hi, I’m Coriolan.
+-->
 <!---
 - 👀 I’m interested in ...
 --->
-- 🌱 I’m currently learning IT at the University, in Antananarivo.
+<!--- 🌱 I’m currently learning IT at the University, in Antananarivo.-->
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
