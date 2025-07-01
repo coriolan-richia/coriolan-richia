@@ -1,10 +1,10 @@
-<!--
-- 👋 Hi, I’m Coriolan.
--->
-<!---
-- 👀 I’m interested in ...
---->
-<!--- 🌱 I’m currently learning IT at the University, in Antananarivo.-->
+- 👋 Hi, there! **Coriolan** here.
+
+- 👀 I’m interested in _a lot of things_.
+Well, a highly curious soul is having an adventure in the field of IT and Software Development, and that's me.
+
+- 🌱 I'm currently (2025) a third-year student at MIT, at the University of Antananarivo.
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
